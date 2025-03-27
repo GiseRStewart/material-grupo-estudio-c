@@ -50,3 +50,8 @@ El primer capítulo de "El Lenguaje de Programación C" de Kernighan y Ritchie (
 * Es un excelente comienzo para aprender los fundamentos del lenguaje de programación C.
 
 (powered by Gemini)
+
+
+## 
+
+* https://ejerciciosmesa.com/2022/05/31/grado-en-matematicas-ejercicios-resueltos-de-programacion-en-c-1-a-20/

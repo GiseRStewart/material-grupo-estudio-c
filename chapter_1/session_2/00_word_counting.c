@@ -12,7 +12,7 @@ int main()
     int c, nl, nw, nc, state;
     state = OUT;
     nl = nw = nc = 0;
-    // Use Ctrl+D (Unix/Linux/Mac) or Ctrl+Z (Windows) to signal EOF in the terminal
+    // Use Ctrl+D (Unix/Linux/Mac) or Ctrl+Z or try Ctrl+C (Windows) to signal EOF in the terminal
     while ((c = getchar()) != EOF)
     {
         ++nc;
